@@ -1,0 +1,23 @@
+{
+  "id": "c1514608-d70f-4cc3-be8c-3791137e2799",
+  "name": "ShipIT D365 BC",
+  "publisher": "idyn",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "idRange": {
+    "from": 11147639,
+    "to": 11147839
+  },
+  "runtime": "2.0"
+}
